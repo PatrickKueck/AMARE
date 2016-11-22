@@ -1,17 +1,4 @@
 # AMARE
-<<<<<<< HEAD
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-# AliGROOVE
-=======
 To run AMARE, open the terminal of your running system. Navigate through your
 directory path to the folder where AMARE and input files are placed. Notice that all
 input les have to be located in the AMARE including folder. To execute AMARE, a
@@ -24,6 +11,3 @@ line simplies the implementation of AMARE into complex process pipelines. Navig
 through your directory path to the folder where AMARE and your files are located and
 type the name of the AMARE version, followed by a blank and the demanded setup
 options with a minus (-) sign in front of each. Then press enter.
->>>>>>> 062b29c34f0b1b11115ab6b985457d800455d321
-# AliGROOVE
-# AliGROOVE
